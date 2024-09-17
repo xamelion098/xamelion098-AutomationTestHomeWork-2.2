@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/w4ftq9cqwmfrrj12?svg=true)](https://ci.appveyor.com/project/xamelion098/automationtesthomework-2-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/k3b6p6ot81bleh9d?svg=true)](https://ci.appveyor.com/project/xamelion098/xamelion098-automationtesthomework-2-2)
